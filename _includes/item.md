@@ -1,0 +1,7 @@
+### The Art of Computer Programming - Volume 4B
+
+![The Art of Computer Programming, Volume 4B Cover](https://m.media-amazon.com/images/I/51XyzXfbozL._SY342_.jpg)
+
+[Amazon - $79.99](https://www.amazon.com/dp/0201038064/?coliid=I1KOMPLF57MEL9&colid=3VI7UMGVWPOT&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it)
+
+This is the newest volume in Donald Knuth's canonical series. I have all of the other completed volumes, but this one was published more recently.
